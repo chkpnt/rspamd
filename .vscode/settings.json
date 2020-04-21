@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "cmake.installPrefix": "${workspaceFolder}/install",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureSettings": {
+        "ENABLE_LIBUNWIND": "ON"
+    }
+}
